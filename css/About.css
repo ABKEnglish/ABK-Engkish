@@ -2,10 +2,10 @@
 
 body{
 	background-image:linear-gradient(rgba(0, 0, 0, 0.781),hwb(0 0% 100% / 0.781)), url(../wena/d1.jpg);
-	height: 300vh;
+	height: 400vh;
 	background-size: cover;
 	background-position: center;
-	min-height: 100px;
+	min-height: 500px;
 }
 
 ul{
