@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lateef&family=Noto+Nastaliq+Urdu:wght@600&display=swap');
 
 body{
-	background-image:linear-gradient(rgba(0, 0, 0, 0.781),hwb(0 0% 100% / 0.781)), url(aa.jpg);
+	background-image:linear-gradient(rgba(0, 0, 0, 0.781),hwb(0 0% 100% / 0.781)), url(../d1.jpg);
 	height: 400vh;
 	background-size: cover;
 	background-position: center;
@@ -217,3 +217,5 @@ text-align: center;
 font-size: 33px;
 
 }
+
+body{}
